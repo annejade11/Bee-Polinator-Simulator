@@ -7,6 +7,6 @@ This is a small animation in which four bees start at a beehive and navigate to 
 
 If you click your mouse anywhere on the screen, the background will change. The background originally starts showing the day with two clouds, but if you click the screen it will change to night with small stars. If you click again, it will switch back to day. The position of the clouds and the stars are randomized each time you change the background.
 
-To run this program, simply open it in Processing or VS Code and press the run button. You should not need any other setup as long as you have downloaded all files under "Unit 5 Project" and placed them in the same folder (sketch.pde requires access to the other two files to run).
+To run this program, simply open it in Processing or VS Code and press the run button. You should not need any other setup as long as you have downloaded all files under "Unit 5 Project" and placed them in the same folder (main.pde requires access to the other two files to run).
 
 Any files labeled "asset" are simply sprites or designs and are not necessary to running the program.
