@@ -10,3 +10,5 @@ If you click your mouse anywhere on the screen, the background will change. The 
 To run this program, simply open it in Processing or VS Code and press the run button. You should not need any other setup as long as you have downloaded all files under "Bee_Simulator" and placed them in the same folder (main.pde requires access to the other two files to run).
 
 Any files labeled "asset" are simply sprites or designs and are not necessary to running the program.
+
+NOTE: This repository is now archived. It will no longer be updated or changed in any way.
